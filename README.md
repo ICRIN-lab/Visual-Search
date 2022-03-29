@@ -1,4 +1,4 @@
-# Visual_Search
+# Visual Search
 
 Visual Search Task
 
